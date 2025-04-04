@@ -1,4 +1,4 @@
-## DeepCaption AI - Important Links
+## DeepCaption Ai - Important Links
 
 - [Privacy Policy](https://ranjitsingha.github.io/DeepCaption-Ai-Public/PrivacyPolicy.html)  
 - [Terms and Conditions](https://ranjitsingha.github.io/DeepCaption-Ai-Public/Terms.html)  
