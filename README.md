@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>DeepCaption Ai</strong><br>
-  This app can generate captions for videos in all languages. The SRT file can be exported to use in other editor apps.
+  This app seamlessly generates captions for videos in any language, ensuring accurate and high-quality subtitles. The generated SRT file can be easily exported and used in other video editing applications, making the captioning process smooth and efficient.
 </p>
 
 <p align="center">
