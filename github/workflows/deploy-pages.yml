@@ -1,18 +1,32 @@
-name: Deploy GitHub Pages
+name: Deploy GitHub Pages without Submodules
 
 on:
   push:
     branches:
-      - main  # Replace with your branch (e.g., 'gh-pages' if that’s your Pages branch)
+      - main  # Replace with your Pages branch (e.g., 'gh-pages')
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository without submodules
         uses: actions/checkout@v4
         with:
-          submodules: false  # Explicitly disable submodules
+          submodules: false  # Disable submodule fetching
+          fetch-depth: 1     # Shallow clone to minimize Git operations
+
+      - name: Remove submodule references (workaround)
+        run: |
+          git config --local --unset-all submodule.DeepCaption-Ai.url || true
+          rm -rf DeepCaption-Ai  # Remove any local submodule folder if present
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
