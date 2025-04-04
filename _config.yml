@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 - name: Checkout repository
   uses: actions/checkout@v4
   with:
