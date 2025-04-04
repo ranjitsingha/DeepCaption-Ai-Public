@@ -1,7 +1,9 @@
+name: Deploy GitHub Pages
+
 on:
   push:
     branches:
-      - main  # Adjust this to your default branch
+      - main  # Replace with your branch (e.g., 'gh-pages' if that’s your Pages branch)
 
 jobs:
   build-and-deploy:
@@ -10,13 +12,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: false  # Disable submodule fetching
+          submodules: false  # Explicitly disable submodules
 
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1  # If using Jekyll; adjust if not
+        uses: actions/jekyll-build-pages@v1
         with:
-          source: ./  # Default source directory
-          destination: ./_site  # Default output directory
+          source: ./
+          destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
