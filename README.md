@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4d788783-24a7-457a-a9cf-4022356fbda2" alt="DeepCaption AI Preview" width="100">
+  <img src="https://github.com/user-attachments/assets/4d788783-24a7-457a-a9cf-4022356fbda2" alt="DeepCaption AI Preview" width="150">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="100">
