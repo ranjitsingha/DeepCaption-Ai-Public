@@ -1,0 +1,4 @@
+- name: Checkout repository
+  uses: actions/checkout@v4
+  with:
+    submodules: false
