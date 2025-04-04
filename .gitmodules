@@ -1,0 +1,3 @@
+[submodule "DeepCaption-Ai"]
+	path = DeepCaption-Ai
+	url = https://github.com/ranjitsingha/DeepCaption-Ai.git
