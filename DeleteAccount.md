@@ -8,7 +8,7 @@ At Deep Caption Ai, we value your privacy and give you full control over your pe
 
 ## How to Request Account Deletion
 
-To delete your account, send an email to **mailranjitsingha@gmail.com** with the following details:
+To delete your account, send an email to **deepcaption@yahoo.com** with the following details:
 
 - **Subject Line**: "Account Deletion Request"
 - **Email Body**:
@@ -17,22 +17,21 @@ To delete your account, send an email to **mailranjitsingha@gmail.com** with the
   - A short statement requesting account deletion
 
 ### Example Email
-
-```
 Subject: Account Deletion Request
 
 Dear Deep Caption AI Support,
 
 I would like to request the deletion of my account. My details are as follows:
 
-- Full Name: [Your Full Name]
-- Email Address: [Your Email Address]
+Full Name: [Your Full Name]
+
+Email Address: [Your Email Address]
+
 
 Please let me know once the deletion is complete.
 
 Thank you,
 [Your Full Name]
-```
 
 ---
 
@@ -64,6 +63,4 @@ We use email for deletion requests to protect your account’s security. This me
 
 ## Need Help?
 
-If you have questions or need support with deleting your account, feel free to email us at **mailranjitsingha@gmail.com**.
-
----
+If you have questions or need support with deleting your account, feel free to email us at **deepcaption@yahoo.com**.
