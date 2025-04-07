@@ -112,6 +112,6 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email**: mailranjitsingha@gmail.com
+**Email**: deepcaption@yahoo.com
 
 ---
