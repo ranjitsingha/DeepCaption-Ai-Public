@@ -48,7 +48,7 @@ Refunds or cancellations will not be granted in the following cases:
 ### 8. Contact Information
 For questions or to initiate a request, please reach out to us at:
 
-- **Email**: [mailranjitsingha@gmail.com](mailto: mailranjitsingha@gmail.com)
+- **Email**: [deepcaption@yahoo.com](mailto: deepcaption@yahoo.com)
 - **Support Hours**: Monday to Friday, 9:00 AM - 5:00 PM [Your Time Zone]
 
 ### 9. Updates to This Policy
