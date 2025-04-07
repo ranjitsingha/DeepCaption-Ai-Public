@@ -12,7 +12,7 @@ DeepCaption Ai is an Android application designed to [Generate Auto captions for
 
 ### 3. User Accounts
 - **Registration**: Some features may require you to create an account. You agree to provide accurate and complete information and to keep your account credentials confidential.
-- **Responsibility**: You are responsible for all activities under your account. Notify us immediately at [mailranjitsingha@gmail.com](mailto:mailranjitsingha@gmail.com) if you suspect unauthorized use.
+- **Responsibility**: You are responsible for all activities under your account. Notify us immediately at [deepcaption@yahoo.com](mailto: deepcaption@yahoo.com) if you suspect unauthorized use.
 
 ### 4. License to Use
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes, subject to these Terms. You may not copy, modify, distribute, sell, or reverse-engineer the App.
@@ -57,7 +57,7 @@ We may update the App or these Terms at our discretion. Significant changes will
 ### 15. Contact Us
 For questions, support, or to report violations of these Terms, please contact us at:
 
-- **Email**: [mailranjitsingha@gmail.com](mailto:mailranjitsingha@gmail.com)
+- **Email**: [deepcaption@yahoo.com](mailto:deepcaption@yahoo.com)
 
 ---
 
