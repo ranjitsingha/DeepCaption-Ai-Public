@@ -26,7 +26,7 @@ You may be eligible for a refund or cancellation under the following conditions:
 ### 5. Process for Requesting a Refund or Cancellation
 To request a refund or cancellation, please follow these steps:
 
-1. **Submit a Request**: Email us at **[support@example.com](mailto:support@example.com)** with the subject "Refund Request" or "Cancellation Request."
+1. **Submit a Request**: Email us at **[deepcaption@yahoo.com](mailto: deepcaption@yahoo.com)** with the subject "Refund Request" or "Cancellation Request."
 2. **Provide Information**: Include your full name, the email associated with your account, the purchase date, and a detailed reason for your request.
 3. **Attach Proof**: Include a receipt or transaction ID as proof of purchase.
 4. **Await Response**: Our team will review your request and reply within 5-7 business days.
