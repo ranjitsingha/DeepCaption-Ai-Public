@@ -78,7 +78,7 @@ You have the following rights regarding your personal information:
 - **Deletion**: You may request that we delete your personal information, subject to certain legal exceptions (e.g., where we are required to retain it by law).
 - **Opt-Out**: You may opt out of receiving promotional communications from us by following the unsubscribe instructions provided in those communications.
 
-To exercise these rights, please contact us at **mailranjitsingha@gmail.com**.
+To exercise these rights, please contact us at **deepcaption@yahoo.com**.
 
 Since you sign in using your Google account and may use Google Play Billing, some of your personal information (e.g., name, email address, and payment details) is managed by Google. For details on how Google handles your data, please refer to [Google's Privacy Policy](https://policies.google.com/privacy) and [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice&ldl=en-GB).
 
