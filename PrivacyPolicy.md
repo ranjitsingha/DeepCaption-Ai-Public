@@ -1,8 +1,8 @@
-# Privacy Policy for DeepCaption Ai
+# Privacy Policy for Deep Caption
 
 **Last Updated: April 3, 2025**
 
-Deep Caption AI ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). The App uses user-uploaded videos to generate captions, leveraging third-party transcription services, and offers in-app purchases through Google Play Billing. Please read this policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
+Deep Caption ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). The App uses user-uploaded videos to generate captions, leveraging third-party transcription services, and offers in-app purchases through Google Play Billing. Please read this policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
 
 ---
 
