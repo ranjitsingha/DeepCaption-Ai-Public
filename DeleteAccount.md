@@ -1,4 +1,4 @@
-# Delete Your DeepCaption Ai Account
+# Delete Your Deep Caption Account
 
 **Last Updated: [24 March 2025]**
 
