@@ -1,4 +1,4 @@
-## DeepCaption Ai Refund and Cancellation Policy
+## Deep Caption Refund and Cancellation Policy
 
 **Effective Date:** [April 1, 2025]
 
