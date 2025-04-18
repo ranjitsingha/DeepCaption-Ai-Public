@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="60">
+  <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="150">
 </p>
 
 ## DeepCaption Ai - Important Links
