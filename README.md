@@ -11,7 +11,7 @@
   <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="150">
 </p>
 
-## DeepCaption Ai - Important Links
+## Deep Caption Ai - Important Links
 
 - [Privacy Policy](https://ranjitsingha.github.io/DeepCaption-Ai-Public/PrivacyPolicy.html)  
 - [Terms and Conditions](https://ranjitsingha.github.io/DeepCaption-Ai-Public/Terms.html)  
