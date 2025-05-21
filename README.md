@@ -18,7 +18,9 @@ Experience the convenience of professional-quality subtitles at an unbeatable pr
   <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="150">
 </p>
 
-[Download Now](https://play.google.com/store/apps/details?id=deepcaption.ai)  
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=deepcaption.ai">Download Now</a>
+</p>
 
 ## Preview Version 7.0.4
 https://github.com/user-attachments/assets/639b82a6-7608-4f8a-9e9b-c2f72ce505be
