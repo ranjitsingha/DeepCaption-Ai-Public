@@ -18,6 +18,12 @@ Experience the convenience of professional-quality subtitles at an unbeatable pr
   <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="150">
 </p>
 
+## Preview
+
+https://github.com/user-attachments/assets/4e924052-12ad-4f41-9e4a-19e80e4e26d7
+
+
+
 ## Deep Caption - Important Links
 
 - [Privacy Policy](https://ranjitsingha.github.io/DeepCaption-Ai-Public/PrivacyPolicy.html)  
