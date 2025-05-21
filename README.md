@@ -3,15 +3,17 @@
 </p>
 
 <p align="center">
-  <strong>DeepCaption Ai</strong><br>
-  This app seamlessly generates captions for videos in any language, ensuring accurate and high-quality subtitles. The generated SRT file can be easily exported and used in other video editing applications, making the captioning process smooth and efficient.
+  <strong>Deep Caption</strong><br>
+  Deep Caption is an innovative Android app available on the Play Store that stands out with its unique features. It enables users to generate subtitles in any language and even translates them into English letters, all while preserving the original pronunciation. The app also offers the flexibility to export the generated subtitle file, which can be seamlessly imported into other video editors for further customization.
+What makes Deep Caption even more appealing is its affordability. Unlike other subtitle generation apps on the Play Store, which typically require a subscription of ₹800–₹1000 per month, Deep Caption provides unlimited subtitle generation for just ₹100.
+Experience the convenience of professional-quality subtitles at an unbeatable price with Deep Caption!
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c4b5d51-6536-4b85-bd7e-08bddb33addc" alt="DeepCaption AI Preview" width="150">
 </p>
 
-## Deep Caption Ai - Important Links
+## Deep Caption - Important Links
 
 - [Privacy Policy](https://ranjitsingha.github.io/DeepCaption-Ai-Public/PrivacyPolicy.html)  
 - [Terms and Conditions](https://ranjitsingha.github.io/DeepCaption-Ai-Public/Terms.html)  
