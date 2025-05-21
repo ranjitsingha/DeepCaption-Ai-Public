@@ -6,9 +6,12 @@
   <strong>Deep Caption</strong><br>
 </p>
 <p>
-  Deep Caption is an innovative Android app available on the Play Store that stands out with its unique features. It enables users to generate subtitles in any language and even translates them into English letters, all while preserving the original pronunciation. The app also offers the flexibility to export the generated subtitle file, which can be seamlessly imported into other video editors for further customization.
+  Deep Caption is an innovative Android app available on the Play Store that stands out with its unique features. It enables users to generate subtitles in any language and even translates them into English letters, all while preserving the original pronunciation.
+  
+The app also offers the flexibility to export the generated subtitle file, which can be seamlessly imported into other video editors for further customization.
+  
 What makes Deep Caption even more appealing is its affordability. Unlike other subtitle generation apps on the Play Store, which typically require a subscription of ₹800–₹1000 per month, Deep Caption provides unlimited subtitle generation for just ₹100.
-Experience the convenience of professional-quality subtitles at an unbeatable price with Deep Caption!
+Experience the convenience of professional-quality subtitles at an unbeatable price with Deep Caption
 </p>
 
 <p align="center">
